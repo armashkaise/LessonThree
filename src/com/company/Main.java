@@ -43,4 +43,5 @@ public class Main {
         if (from.decreaseBalans(amount) && to.increaseBalans(amount)) return true;
         return false;
     }
+
 }
